@@ -5,14 +5,14 @@ Fullstack application made with MongoDB, Express, React & Nodejs (MERN) </h5>
 
 ##  Key Features
 
--User registration and login
--Authentication using JWT Tokens
--Story searching and pagination
--CRUD operations (Story create, read, update and delete)
--Upload user ımages and story ımages to the server
--Liking stories to show our view
--Skeleton loading effect
--Responsive Design
+- User registration and login
+- Authentication using JWT Tokens
+- Story searching and pagination
+- CRUD operations (Story create, read, update and delete)
+- Upload user ımages and story ımages to the server
+- Liking stories to show our view
+- Skeleton loading effect
+- Responsive Design
 
 
 <br/>
