@@ -3,6 +3,9 @@
 Fullstack application made with MongoDB, Express, React & Nodejs (MERN) </h5>
 <br/>
 
+
+![Page 1](https://github.com/Aditya20743/LNMConnects/blob/main/LNMConnects1.png?raw=true)
+![Page 2](https://github.com/Aditya20743/LNMConnects/blob/main/LNMConnects2.png?raw=true)
 ##  Key Features
 
 - User registration and login
