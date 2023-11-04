@@ -10,7 +10,7 @@ Fullstack application made with MongoDB, Express, React & Nodejs (MERN) </h5>
 
 - User registration and login
 - Authentication using JWT Tokens
-- Story searching and pagination
+- Story searching
 - CRUD operations (Story create, read, update and delete)
 - Upload user ımages and story ımages to the server
 - Liking stories to show our view
